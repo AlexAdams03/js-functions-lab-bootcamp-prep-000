@@ -1,4 +1,6 @@
 function happyHolidays(string) {
   return string();
 }
-function happyHolidaysTo()
+function happyHolidaysTo(string) {
+  return string.${name}();
+}
